@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FiveLectureTask1</string>
+    <string name="sender_fragment">It is sender fragment</string>
+    <string name="receiver_fragment">It is receiver fragment</string>
+    <string name="button_send_message">SEND MESSAGE</string>
+    <string name="button_read_message">READ</string>
+</resources>
